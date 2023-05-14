@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Prakash Sharma";
+            document.title = "Portfolio | Mayank Phate";
             $("#favicon").attr("href", "assets/images/pofile3-.png");
         }
         else {
